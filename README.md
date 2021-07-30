@@ -1,25 +1,9 @@
-### Hi there 👋
 
-<!--
-**biancasferreira/biancasferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I am Krushnat Khavale
-
-[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Linkedin Badge](https://img.shields.io/badge/-biancadsferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/biancadsferreira/)](www.linkedin.com/in/biancadsferreira/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
-[![Gmail Badge](https://img.shields.io/badge/-krushnatkhavale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
+[![Gmail Badge](https://img.shields.io/badge/-biancasferreira@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancasferreira@outlook.com)](mailto:biancasferreira@outlook.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/biancasferreira)
 
 - 🔭 **I’m currently working on server side Java technologies.**
 - 🌱 **I’m currently learning natural language processing.**
